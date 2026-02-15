@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SS ",
+    " # ",
+    " P "
+  ],
+  "key": {
+    "S": {
+      "tag": "c:ingots/steel"
+    },
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "P": {
+      "item": "oritech:silicon"
+    }
+  },
+  "result": {
+    "id": "oritech_steel_tools:steel_hoe",
+    "count": 1
+  }
+}

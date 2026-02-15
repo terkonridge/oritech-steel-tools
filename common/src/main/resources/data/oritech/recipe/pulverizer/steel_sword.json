@@ -1,0 +1,24 @@
+{
+  "type": "oritech:pulverizer",
+  "fluidInput": {
+    "amount": 0,
+    "fluid": "minecraft:empty"
+  },
+  "fluidOutputs": [],
+  "ingredients": [
+    {
+        "item": "oritech_steel_tools:steel_sword"
+    }
+  ],
+  "results": [
+    {
+      "count": 1,
+      "id": "oritech:steel_dust"
+    },
+    {
+      "count": 1,
+      "id": "oritech:silicon"
+    }
+  ],
+  "time": 120
+}
